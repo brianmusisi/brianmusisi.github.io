@@ -9,7 +9,7 @@
 title: Data Science - Brian Musisi
 email: brianmusisi@yahoo.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
+  Data Science - Analytics - Machine Learning
 #baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
 url: "http://brianmusisi.com" # the base hostname & protocol for your site
 
@@ -26,8 +26,8 @@ facebook_username: Brian Musisi
 # Address information
 address_street: Hannington Rd
 address_city: Kampala
-address_state: Kampala
-address_zip: 256
+#address_state: Kampala
+#address_zip: 256
 
 # Build settings
 markdown: kramdown
